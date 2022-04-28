@@ -17,6 +17,6 @@ Skills: java / kotlin / Android sdk / xml / api / ui ux design /
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanvirsikdar05)  
+
 
 ![Profile views](https://gpvc.arturio.dev/tanvirsikdar05)  
