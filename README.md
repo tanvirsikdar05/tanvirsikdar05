@@ -1,6 +1,6 @@
-### Hi there 👋, I am Tanvir sikdar
-#### I am Mobile app developer
-![I am Mobile app developer](https://media-exp1.licdn.com/dms/image/C5616AQH4zvb4czPIYg/profile-displaybackgroundimage-shrink_200_800/0/1641020286717?e=1654128000&v=beta&t=n-tFzxEAaa6SmjmO_exqt0-bcmlEFXcT8az0nSud0UI)
+###  I am Tanvir sikdar
+#### I am Native android app developer
+
 
 I’m a Native android app developer who is passionate about making error-free app with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Android studio .
 
