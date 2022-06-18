@@ -4,7 +4,7 @@
 
 I’m a Native android app developer who is passionate about making error-free app with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Android studio .
 
-Skills: java / kotlin / Android sdk / xml / api / ui ux design /
+Skills: java / kotlin / Android sdk /Firebase / sqlite / Room database / rest APIs / xml / api / ui ux design /
 
 - 🔭 I’m currently working on Android Studio 
 - 🌱 I’m currently learning Blockchain DApp development 
