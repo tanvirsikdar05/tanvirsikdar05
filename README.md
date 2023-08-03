@@ -19,4 +19,3 @@ Skills: java / kotlin / Android sdk /Firebase / sqlite / Room database / rest AP
 
 
 
-![Profile views](https://gpvc.arturio.dev/tanvirsikdar05)  
