@@ -14,13 +14,12 @@ I’m a Native android app developer who is passionate about making error-free a
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/tanvirgazi)  
 
 ---
-
 ### 📊 GitHub Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirsikdar&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirsikdar05&layout=compact&theme=default)
 
 ### 📈 GitHub Stats
 
-![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirsikdar&show_icons=true&theme=default)
+![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirsikdar05&show_icons=true&theme=default)
 
 
