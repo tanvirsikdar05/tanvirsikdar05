@@ -1,5 +1,6 @@
-###  I am Tanvir Sikdar
-#### I am Native Android App Developer
+###   Tanvir Sikdar
+#### Mobile App Developer [Android](https://img.icons8.com/color/20/000000/android-os.png) (https://img.icons8.com/color/20/flutter.png) (https://img.icons8.com/external-tal-revivo-color-tal-revivo/20/external-kotlin-multiplatform-a-kotlin-language-feature-logo-color-tal-revivo.png)
+
 
 I’m a Native android app developer who is passionate about making error-free app with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Android Studio.
 
@@ -18,8 +19,5 @@ I’m a Native android app developer who is passionate about making error-free a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirsikdar05&layout=compact&theme=default)
 
-### 📈 GitHub Stats
-
-![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirsikdar05&show_icons=true&theme=default)
 
 
