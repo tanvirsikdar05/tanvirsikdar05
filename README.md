@@ -13,9 +13,7 @@ I’m a Mobile app developer who is passionate about making Bugs free Scalble ap
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://web.facebook.com/tanvirsikdarofficial)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/tanvirgazi)  
 
-### 📊 GitHub Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirsikdar05&layout=compact&theme=default)
 
 
 
